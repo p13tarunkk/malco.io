@@ -21,9 +21,9 @@ interests:
 - Epidemiologic Methods
 name: Malcolm Barrett
 organizations:
-- name: Teladoc Health
+- name: Apple
   url: ""
-role: Clinical Research Data Scientist
+role: Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
